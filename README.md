@@ -1,4 +1,11 @@
+# 🐍 Python Mastery: From Zero to Expert
 
+Welcome to the **Python Mastery Repository** 🎉  
+This repo is designed as a **complete learning path** for Python — from the very basics of syntax to advanced internals, DSA, and real-world projects.  
+
+It’s written with the philosophy of **“learn by doing”** and focuses on making you a **top 1% Python expert**.
+
+---
 
 # 🐍 Python Top 1% Roadmap
 
